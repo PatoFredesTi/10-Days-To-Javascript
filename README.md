@@ -1,9 +1,11 @@
 # 10-Days-To-Javascript
-This Repo is for make the Hackerrank challenge. It's about programing with Javascript for 10 days in a row. <br>
-Every day I will upload my progress. <br>
+This Repo is for make the Hackerrank challenge. It's about programing with Javascript for 10 days in a row. Every day I will upload my progress. <br>
 
-
-Progress:   █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+<div align="center">
+Progress:   █████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   10.0%  <br>
+</div>
+<br>
+<div align="center">
 
 | # Day  |                                                                       Topics                                                                        |
 | -----  | :-------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -11,3 +13,7 @@ Progress:   █████░░░░░░░░░░░░░░░░░�
 |   1    |  |
 <!-- 
 |   2    |  |
+
+
+
+</div>
