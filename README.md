@@ -2,7 +2,7 @@
 This Repo is for make the Hackerrank challenge. It's about programing with Javascript for 10 days in a row. Every day I will upload my progress. <br>
 
 <div align="center">
-Progress:   ██████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   20.0%  <br>
+Progress:   ██████████████████████████████░░░░░░░░░░░░░░░░░░░░   60.0%  <br>
 </div>
 <br>
 <div align="center">
