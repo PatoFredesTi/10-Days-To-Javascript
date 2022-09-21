@@ -16,8 +16,8 @@ Progress:   ██████████████████████�
 |   4    | [Day 4](https://github.com/PatoFredesTi/10-Days-To-Javascript/tree/main/Day%204) |
 |   5    | [Day 5](https://github.com/PatoFredesTi/10-Days-To-Javascript/tree/main/Day%205) |
 |   6    | [Day 6](https://github.com/PatoFredesTi/10-Days-To-Javascript/tree/main/Day%206) |
-|   7    | [Day 6](https://github.com/PatoFredesTi/10-Days-To-Javascript/tree/main/Day%207) |
-|   8    | [Day 6](https://github.com/PatoFredesTi/10-Days-To-Javascript/tree/main/Day%208) |
+|   7    | [Day 7](https://github.com/PatoFredesTi/10-Days-To-Javascript/tree/main/Day%207) |
+|   8    | [Day 8](https://github.com/PatoFredesTi/10-Days-To-Javascript/tree/main/Day%208) |
 
 
 
